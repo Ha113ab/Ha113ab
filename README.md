@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Bekele Haileab Tadele  
+# 👋 Hi, I’m  Haileab Tadele  Bekele
 
 💻 **Graduate Student in Cybersecurity @ Saint Louis University**  
 🔐 Aspiring **Blue Team Specialist** & **Technical Sales Professional**  
